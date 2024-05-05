@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "name": "32",
+    "colorIndex": 4,
+    "listItems": [
+      {
+        "id": 0,
+        "item": "4",
+        "listId": 0
+      },
+      {
+        "id": 1,
+        "item": "7",
+        "listId": 0
+      },
+      {
+        "id": 2,
+        "item": "2",
+        "listId": 0
+      }
+    ]
+  }
+]
